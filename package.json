@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-dns-prefetcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An Vite plugin to add dns-prefetch link tag in HTML.",
   "packageManager": "pnpm@8.12.1",
   "type": "module",
@@ -28,7 +28,8 @@
     "vite",
     "vite-plugin",
     "dns",
-    "dns prefetch",
+    "dns-prefetch",
+    "prefetch",
     "vue",
     "react"
   ],
