@@ -1,4 +1,5 @@
 import { getFileType, domainProcess } from "./utils"
+import urlRegex from 'url-regex'
 
 const urlPattern = /(https?:\/\/[^/]*)/g;
 
